@@ -1,0 +1,14 @@
+{
+  "name": "prettier-config-cog",
+  "version": "0.0.0-development",
+  "description": "Prettier configuration file for personal projects",
+  "main": "index.json",
+  "repository": "git@github.com:cogni8r/prettier-config-cog.git",
+  "author": "cogni8r",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "config",
+    "gearsjs"
+  ]
+}
