@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/cogni8r/prettier-config-cog/compare/v1.0.1...v1.1.0) (2022-12-29)
+
+
+### Features
+
+* remove deprecated option `jsxBracketSameLine` ([ca36a02](https://github.com/cogni8r/prettier-config-cog/commit/ca36a0278964ba0f559aeb14b1b331c658e4f02e))
+
 ## [1.0.1](https://github.com/cogni8r/prettier-config-cog/compare/v1.0.0...v1.0.1) (2022-01-29)
 
 
